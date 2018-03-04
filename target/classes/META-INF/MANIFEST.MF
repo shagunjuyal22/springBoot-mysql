@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mysql-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: robin
+Implementation-Vendor-Id: com.mysql
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mysql-project
+Created-By: Maven Integration for Eclipse
+
